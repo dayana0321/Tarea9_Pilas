@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TareaIndividual9-Pilas/1.0.0": {
+        "runtime": {
+          "TareaIndividual9-Pilas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TareaIndividual9-Pilas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

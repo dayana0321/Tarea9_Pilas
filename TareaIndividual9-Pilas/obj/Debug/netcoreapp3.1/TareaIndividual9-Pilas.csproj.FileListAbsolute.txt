@@ -1,0 +1,11 @@
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\bin\Debug\netcoreapp3.1\TareaIndividual9-Pilas.exe
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\bin\Debug\netcoreapp3.1\TareaIndividual9-Pilas.deps.json
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\bin\Debug\netcoreapp3.1\TareaIndividual9-Pilas.runtimeconfig.json
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\bin\Debug\netcoreapp3.1\TareaIndividual9-Pilas.runtimeconfig.dev.json
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\bin\Debug\netcoreapp3.1\TareaIndividual9-Pilas.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\bin\Debug\netcoreapp3.1\TareaIndividual9-Pilas.pdb
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\obj\Debug\netcoreapp3.1\TareaIndividual9-Pilas.csprojAssemblyReference.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\obj\Debug\netcoreapp3.1\TareaIndividual9-Pilas.AssemblyInfoInputs.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\obj\Debug\netcoreapp3.1\TareaIndividual9-Pilas.AssemblyInfo.cs
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\obj\Debug\netcoreapp3.1\TareaIndividual9-Pilas.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\TareaIndividual9-Pilas\TareaIndividual9-Pilas\obj\Debug\netcoreapp3.1\TareaIndividual9-Pilas.pdb
